@@ -1,0 +1,14 @@
+C:\Users\suraj\OneDrive\Documents\msa-phase2\Mee-Mee\bin\Debug\netcoreapp2.2\Mee-Mee.deps.json
+C:\Users\suraj\OneDrive\Documents\msa-phase2\Mee-Mee\bin\Debug\netcoreapp2.2\Mee-Mee.runtimeconfig.json
+C:\Users\suraj\OneDrive\Documents\msa-phase2\Mee-Mee\bin\Debug\netcoreapp2.2\Mee-Mee.runtimeconfig.dev.json
+C:\Users\suraj\OneDrive\Documents\msa-phase2\Mee-Mee\bin\Debug\netcoreapp2.2\Mee-Mee.dll
+C:\Users\suraj\OneDrive\Documents\msa-phase2\Mee-Mee\bin\Debug\netcoreapp2.2\Mee-Mee.pdb
+C:\Users\suraj\OneDrive\Documents\msa-phase2\Mee-Mee\obj\Debug\netcoreapp2.2\Mee-Mee.csprojAssemblyReference.cache
+C:\Users\suraj\OneDrive\Documents\msa-phase2\Mee-Mee\obj\Debug\netcoreapp2.2\Mee-Mee.csproj.CoreCompileInputs.cache
+C:\Users\suraj\OneDrive\Documents\msa-phase2\Mee-Mee\obj\Debug\netcoreapp2.2\Mee-Mee.RazorAssemblyInfo.cache
+C:\Users\suraj\OneDrive\Documents\msa-phase2\Mee-Mee\obj\Debug\netcoreapp2.2\Mee-Mee.RazorAssemblyInfo.cs
+C:\Users\suraj\OneDrive\Documents\msa-phase2\Mee-Mee\obj\Debug\netcoreapp2.2\Mee-Mee.AssemblyInfoInputs.cache
+C:\Users\suraj\OneDrive\Documents\msa-phase2\Mee-Mee\obj\Debug\netcoreapp2.2\Mee-Mee.AssemblyInfo.cs
+C:\Users\suraj\OneDrive\Documents\msa-phase2\Mee-Mee\obj\Debug\netcoreapp2.2\Mee-Mee.RazorTargetAssemblyInfo.cache
+C:\Users\suraj\OneDrive\Documents\msa-phase2\Mee-Mee\obj\Debug\netcoreapp2.2\Mee-Mee.dll
+C:\Users\suraj\OneDrive\Documents\msa-phase2\Mee-Mee\obj\Debug\netcoreapp2.2\Mee-Mee.pdb
